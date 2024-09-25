@@ -1,7 +1,12 @@
-body {background-color: #FFFFFF;
-    color: #666666;
+body {background-color: #FFAA00;
+    color: black;
     background-image: url(ptrbackground.jpg);
     font-family: Ariel, Helvetica, sans-serif;}
+
+header {
+    background-color: #000033;
+    color: white
+}
 
 h1 {background-color:#000033;
   color:#FFFFFF;
@@ -25,7 +30,9 @@ nav {padding-left: 30px;
    padding-right: 5px;
    font-weight: bold;
    float: left;
-   width: 160px;}
+   width: 160px;
+   background-color:#90C7E3;
+}
 
 nav ul {list-style-type: none;
       margin: 0px;
